@@ -1,7 +1,5 @@
 # Agents_YOLO-objectDetection
 
-# Coordinated Patrolling Simulation
-
 This project showcases a **multi-agent system** designed to address urban security challenges by simulating coordinated patrolling in open-risk areas. The system integrates advanced artificial intelligence techniques, object detection, and inter-agent communication to detect and respond to potential security threats.
 
 ## Agents in the Simulation
